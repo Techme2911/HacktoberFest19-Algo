@@ -1,9 +1,9 @@
-# HacktoberFest19-Algo
+# HacktoberFest20-Algorith
 Submit any algorithm in any language and add a PR :+1: to your Hacktoberfest 2019 profile. Don,t forget to star :star: this repository :sparkling_heart:
 
 See :link: [Contributing guidelines](./CONTRIBUTING.md) for more information.
 
-# Hacktoberfest 2019
+# Hacktoberfest 2020
 
 
  ![](https://hacktoberfest.digitalocean.com/assets/logo-hf19-full-10f3c000cea930c76acc1dedc516ea7118b95353220869a3051848e45ff1d656.svg) 
@@ -20,7 +20,7 @@ Complete 4 or more PR till 31st October to get a special T-shirt :shirt: from Di
 Register for Hacktoberfest at :link:
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
-# Hacktoberfest-2019 
+# Hacktoberfest-2020
 
 A repository for beginners :beginner: to create their first Pull Request. 
 
